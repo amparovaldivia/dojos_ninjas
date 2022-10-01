@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.pagina1{
+    width: 80%;
+}
+
+.contenedor{
+    background-color:lightgray;
+    
+    height: 600px;
+    
+    
+
+}
+header{
+    background-color:beige;
+    height:50px;
+}
+.puntos_dojos{
+    width:50%;
+    height: 300px;
+    margin-left:20%;
+    margin-top: 50px;
+    
+}
+.formulario{
+    width: 35%;
+    margin-top:50px;
+    height: 110px;
+    margin-left:10%;
+    background-color: gainsboro;
+}
+h1{
+    margin-left: 10%;
+}
+h2{
+    margin-left: 30%;
+}
+#inscribirse{
+    color: black;
+    margin-top: 400px;
+    margin-right: 5%;
+    padding: 2%;
+    
+}
